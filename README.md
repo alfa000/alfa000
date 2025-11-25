@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Adnan+Al-Farizi+Rahmat;Software+Developer+(Backend+%2F+Full+Stack);AI+%26+System+Engineering+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Adnan+Al-Farizi+Rahmat;Software+Developer+(Backend+%2F+Full+Stack);AI+%26+System+Engineering+Enthusiast" />
 </p>
 
 ---
