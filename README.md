@@ -41,7 +41,6 @@ I’m always excited to learn, collaborate, and create meaningful products.
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black)
 ![React](https://img.shields.io/badge/React-00D1F7?style=for-the-badge&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs)
-![NextJS](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs)
 ![VueJS](https://img.shields.io/badge/Vuejs-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 **DevOps**
