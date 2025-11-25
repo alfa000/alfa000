@@ -53,11 +53,17 @@ I’m always excited to learn, collaborate, and create meaningful products.
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfa000&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa000&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfa000&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfa000&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
+
 
 ---
 
