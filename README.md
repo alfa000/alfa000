@@ -8,9 +8,8 @@
 ---
 
 ## 👋 About Me
-I’m a **Software Developer** with more than **4 years of experience** working on **backend systems**,  
-**Internet Banking & Mobile Banking**, and **AI-assisted applications**.  
-I enjoy building solutions that are **clean, scalable, reliable**, and purposefully designed.
+I’m a Software Developer focusing on **backend development** and **AI-powered applications**. 
+I enjoy building solutions that are **clean, scalable, and reliable**, with a strong emphasis on purposeful, efficient design.
 
 I love working with:
 - 📌 **Java / Spring Boot / Hibernate**  
